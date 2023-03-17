@@ -21,7 +21,7 @@
 
 * аудитория - 547 * 1млн + 937 * 0.5млн + 5000 * 0.1млн = 1.516 млрд([источник](https://vc.ru/media/186520-45-tysyach-blogerov-i-20-mln-polzovateley-v-den-yandeks-dzen-podvel-itogi-goda-i-rasskazal-ob-obnovleniyah-platformy))
 * около 20 млн. пользователей ежедневно ([источник](https://vc.ru/media/186520-45-tysyach-blogerov-i-20-mln-polzovateley-v-den-yandeks-dzen-podvel-itogi-goda-i-rasskazal-ob-obnovleniyah-platformy))
-* среднее время, проведенное в Instagram - 45 мин./день ([источник](https://vc.ru/media/186520-45-tysyach-blogerov-i-20-mln-polzovateley-v-den-yandeks-dzen-podvel-itogi-goda-i-rasskazal-ob-obnovleniyah-platformy))
+* среднее время, проведенное в Дзен - 45 мин./день ([источник](https://vc.ru/media/186520-45-tysyach-blogerov-i-20-mln-polzovateley-v-den-yandeks-dzen-podvel-itogi-goda-i-rasskazal-ob-obnovleniyah-platformy))
 
 Обычно, пользователь заходит на сайт по несколько раз в день.
 Зная, что среднее время, проведенное в Instagram - 45 мин./день, предположим,
